@@ -1,3 +1,5 @@
+# -portfolio-siteAdd commentMore actions
+This my portfolio website including all my details and resume.
 # 💼 Personal Portfolio Website
 
 Welcome to my personal portfolio website built with **HTML**, **CSS**, and **JavaScript**. This site showcases my skills, projects, resume, and ways to connect — all in one interactive and responsive place.
@@ -24,7 +26,7 @@ Welcome to my personal portfolio website built with **HTML**, **CSS**, and **Jav
 ## 🚀 Live Preview
 
 👉 Visit the live site:  
-**[https://anchal-koli.github.io/portfolio-site/](https://Anchal-Koli.github.io/portfolio-site/)**
+ ( https://anchal-koli.github.io/-portfolio-site/ )
 
 ## 🛠️ Tech Stack
 
@@ -34,7 +36,7 @@ Welcome to my personal portfolio website built with **HTML**, **CSS**, and **Jav
 
 ## 📸 Screenshot
 
-![Portfolio Screenshot](./screenshot.png)
+![Portfolio Screenshot](./Screenshot.png)
 
 ## 📬 Contact
 
@@ -45,4 +47,3 @@ Welcome to my personal portfolio website built with **HTML**, **CSS**, and **Jav
 ---
 
 Thank you for checking out my work! Feel free to fork this project or drop suggestions for improvement.
-
